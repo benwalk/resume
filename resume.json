@@ -58,24 +58,6 @@
       "endDate": "2017-06-30",
       "summary": "Focused on developing customizations to the Jive platform using the Jive plugin framework (Java, Spring, Struts 2).  Built a microservice to support plugin and add-on customizations using full Javascript stack (NodeJS, MongoDB, Bootstrap) that integrated with 3rd party applications such as Salesforce, JIRA, and PagerDuty.  Practiced continuous integration (Git, Stash, Jenkins) development and was responsible for product management and project management for these tools.",
       "highlights": []
-    },
-    {
-      "company": "Jive Software",
-      "website": "http://jivesoftware.com/",
-      "position": "Technical Support Engineer",
-      "startDate": "2012-12-31",
-      "endDate": "2014-05-31",
-      "summary": "Focused on enabling Jive customers to be successful with implementations of emerging Jive products. Being an expert in these products required constant collaboration and with Product Managers, high attention to detail, and the drive to solve new and difficult problems. This role also included contributing to the success of the organization through team collaboration and knowledge sharing.",
-      "highlights": []
-    },
-    {
-      "company": "Jive Software",
-      "website": "http://jivesoftware.com/",
-      "position": "Technical Support Analyst",
-      "startDate": "2012-06-30",
-      "endDate": "2012-11-30",
-      "summary": "Focused on enabling Jive customers to be successful by providing Jive platform support and various products.  Fully believing that Jive is only as successful as its customers, this role required a full understanding of the Jive platform, the ability to troubleshoot Java web applications effectively, and communicating clearly with customers.",
-      "highlights": []
     }
   ],
   "volunteer": [],
@@ -197,10 +179,6 @@
     {
       "name": "Patrick Stoneburner",
       "reference": "Ben was one my most reliable and low maintenance engineers that I managed. I worked with him as a colleague first, and was super impressed by his technical abilities and his instincts in tackling technical problems and bugs. When I managed him, under tough times at our company, he continued to grow into a fantastic backend engineer. He would serve well on any team where there is a need for an engineer that doesn't get rattled, and a need for someone that has an ever growing understanding of software engineering concepts and principals."
-    },
-    {
-      "name": "Christian Reed",
-      "reference": "Ben's reputation on our team was for working with complicated, legacy pieces of Java, figuring them out, and fixing obscure bugs. He was supposedly our \"junior\" Java guy, but when all the senior folks left during an acquisition, he was the guy who put together architectural schematics and taught the senior guys from the other company how everything worked.\n\nHe's the ultimate team player, and a great developer. Highly recommend."
     }
   ],
   "projects": [],
