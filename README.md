@@ -3,7 +3,7 @@ Defined and presented according to [JSON Resume](https://jsonresume.org/), theme
 
 [View it in HTML](https://registry.jsonresume.org/benwalk).
 
-[Download a PDF.]()
+[Download a PDF](https://github.com/benwalk/resume/raw/master/resume.pdf).
 
 
 ## Development Notes
