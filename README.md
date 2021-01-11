@@ -1,5 +1,5 @@
 ## Resume for Ben Walker
-Defined and presented according to [JSON Resume](https://jsonresume.org/), themed by
+Defined by [JSON Resume](https://jsonresume.org/) schema format. Presented with [phoinixi/jsonresume-theme-stackoverflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow).
 
 [View it in HTML](https://registry.jsonresume.org/benwalk).
 
