@@ -13,6 +13,4 @@ Install the [resume-cli](https://github.com/jsonresume/resume-cli).
 - `resume validate` to ensure it meets the schema.
 - `resume export ./resume.pdf` to generate an updated pdf.
 
-Update the [gist](https://gist.github.com/benwalk/287152c8257a6f842e5bb8d789b2e9d0) for registry hosting.
-
-Commit changes and the pdf file here.
+Uses GitHub Actions to automatically update [the gist](https://gist.github.com/benwalk/287152c8257a6f842e5bb8d789b2e9d0) (used for registry hosting) when changes to `resume.json` in this repo are merged to `master`.
