@@ -1,0 +1,27 @@
+# Updates resume gist with contents of this repo's resume.json
+
+name: Update Gist
+
+on:
+  # Triggers when master changes
+  push:
+    branches: [ master ]
+    
+  # Enable manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Sync
+        uses: popsiclestick/gist-sync-action@v1.2.0
+        id: sync
+        with:
+          auth: ${{ secrets.GISTS }}
+          gist_url: https://gist.github.com/benwalk/287152c8257a6f842e5bb8d789b2e9d0
+          gist_title: resume.json
+          gist_description: "Ben Walker's Resume. See the repo: https://github.com/benwalk/resume, or view it in HTML: https://registry.jsonresume.org/benwalk"
+          github_file: resume.json
